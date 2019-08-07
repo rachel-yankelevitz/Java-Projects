@@ -30,13 +30,14 @@ public String toString() {
 }
 
   public static void main(String[] args) {
-    // sample objects
+    // sample object 1
   	Droid Codey = new Droid("Codey", 120);
 		// Codey.performTask("cleaning");
     
+    // sample object 2
     Droid Rachel = new Droid("Rachel", 200);
-    // System.out.println(Rachel);
-    // Rachel.doSomeMath(17, 23);
+
+    Rachel.doSomeMath(17, 23); // calls the doSomeMath method
     Rachel.batteryMinusUse(); // subtracts 10 from battery
     System.out.println(Rachel.batteryLevel);
     Rachel.batteryMinusUse(); // subracts another 10
