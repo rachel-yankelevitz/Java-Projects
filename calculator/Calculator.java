@@ -1,8 +1,3 @@
-public class Calculator {
-  public static void main(String[] args) {
-    System.out.print("This is a basic template");
-  }
-}
 
 public class Calculator {
   

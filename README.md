@@ -1,5 +1,7 @@
-##README
+## README
 
-This repository is for a variety of different Java projects.
+In the this repository you'll find the following Java Projects:
 
-
+1.  Basic Calculator Application
+2.  Basic Droid Application
+3.  

@@ -1,5 +1,8 @@
 ## Calculator README
 
+
+![calculator](assets/calculator.png "calculator")
+
 ### Basic Calculator
 This project uses classes, methods, and objects to create a simple arithmetic calculator. The calculator can: 
 
