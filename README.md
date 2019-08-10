@@ -6,4 +6,4 @@ In the this repository you'll find the following Java Projects:
 2.  Basic Droid Application
 3.  Car Loan Calculator
 4.  Dessert Island Playlist
-5.  Something about Loops
+5.  Fizz Buzz
